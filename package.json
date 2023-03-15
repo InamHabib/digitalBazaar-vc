@@ -30,7 +30,7 @@
   "dependencies": {
     "credentials-context": "^2.0.0",
     "jsonld": "^8.1.0",
-    "jsonld-signatures": "https://github.com/InamHabib/digitalBazaar-vc.git"
+    "jsonld-signatures": "https://github.com/InamHabib/jsonld-signatures.git"
   },
   "devDependencies": {
     "@digitalbazaar/ed25519-signature-2018": "^4.0.0",
